@@ -1,4 +1,10 @@
 # EndMinecraftPlus
+此货仓仅作Fork分叉备份，唔讲吓嘢喇！任何协助/技术支援
+
+
+
+
+
 基于<a href="https://github.com/iuli-moe/EndMinecraft">EndMinecraft</a>优化修改的Minecraft压测工具<br>
 本工具根据MIT协议开源,只可用于服务器压力测试<br>
 请勿用于其他非法用途,否则造成的后果由使用者自行承担!
@@ -24,3 +30,5 @@
 
 #### 测试效果: ####
 ![alt text](https://s1.ax1x.com/2018/12/07/F1hmYF.png)
+
+
